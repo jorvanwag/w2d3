@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+header {
+     background-color: darkgrey;
+     text-align: center
+    
+}
+body {
+ background-image: url("img.jpg");
+ background-position: center;
+ background-color: #000000;
+}
+.object {
+    background-color: aliceblue;
+    object-position: top;
+    display: block;
+}
+h1{
+    color: floralwhite;
+    text-align: center;
+    padding-top: 300px;
+    font-family: sans-serif;
+    
+}
+    h3 {
+    text-align: center;
+    color: floralwhite;
+    background-color: dimgrey;
+}
+    h4 {
+    color: floralwhite;
+    text-align: center;
+    padding-bottom: 250p;
+    font-family: monospace
+}
+a {
+color: floralwhite;
+}
+a:hover {
+    color: lightgray;
+    font-size: large;
+    //text-decoration-line: none;
+}
